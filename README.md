@@ -6,7 +6,7 @@ Ensemble methods are a powerful strategy in machine learning that involves combi
 * Boosting involves training multiple models sequentially, with each model trying to correct the mistakes of the previous one.
 * Stacking involves training multiple models and combining their predictions using a meta-model.
 
-*The benefits of ensemble methods include improved robustness and generalizability, reduced overfitting and underfitting, and enhanced performance on unseen data. 
+* The benefits of ensemble methods include improved robustness and generalizability, reduced overfitting and underfitting, and enhanced performance on unseen data. 
 * They are widely used in various applications, including classification, regression, and anomaly detection.
 
 In summary, ensemble methods are a powerful tool in machine learning that can help improve the performance and robustness of models by combining the strengths of multiple models.
